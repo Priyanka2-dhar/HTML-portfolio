@@ -23,4 +23,3 @@ A personal portfolio website built using HTML to showcase my skills, projects an
 ## Author
 Priyanka Dhar
 
-[GitHub Profile](https://github.com/priyanka20042004)
